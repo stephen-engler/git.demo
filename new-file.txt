@@ -9,3 +9,7 @@ git push
 
 this should save changes to GitHub repository
 
+other commands 
+go to file you want to save to git in terminal
+use
+git init
