@@ -5,7 +5,7 @@ how to commit to git hub and misc. commands
 git add .
 git status
 git commit -m “blah blah blah”
-git push
+git push origin master
 
 this should save changes to GitHub repository
 
